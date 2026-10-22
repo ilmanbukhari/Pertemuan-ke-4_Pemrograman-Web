@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="id">
+    <head>
+        <meta charset="UTF-8">
+        <title>Kartu Profil</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="kartu">
+        <h1>Nama Anda</h1>
+        <p class="jurusan">Teknik Informatika</p>
+        <p class="info">Saya sedang belajar membuat tampilan web dengan CSS</p>
+        <a href="#" class="tombol">Hubungi Saya</a>
+        </div>
+    </body>
+</html>
