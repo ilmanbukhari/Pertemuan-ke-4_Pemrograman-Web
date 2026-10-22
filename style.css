@@ -1,0 +1,45 @@
+body {
+    text-align:center;
+    font-family:Arial, sans-serif;
+    font-size: 16px;
+    background-color: #eaf2f8;
+    color: #333333;
+    margin: 0;
+    padding: 30px 0;
+    line-height: 1.6;
+}
+h1 {
+    color:#1e3a8a; font-size:2rem; text-align:center;
+}
+
+    .kartu {
+        box-sizing:border-box;
+        text-align:center;
+        width: 360px;
+        margin:40px 0;
+        padding: 24px;
+        background-color:#ffffff;
+        border: 2px solid #cbd5e1;
+        border-radius: 12px
+    }
+
+    .jurusan {
+        text-align:center;
+        font-size:12px;
+        font-style:normal;
+        text-transform:capitalize;
+        letter-spacing:1px;
+        color: #666;
+    }
+    .info {font-size:14px;color:#64748b; text-align:center;}
+
+    .tombol {
+        text-align:center;
+        display: block;
+        margin-top:12px;
+        padding: 10px 20px;
+        background-color: #1e3a8a;
+        color: white;
+        text-decoration: none;
+        border-radius: 6px;
+    }
